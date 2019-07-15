@@ -1,0 +1,48 @@
+body{
+  font-family: 'Rubik', sans-serif;
+  background-color: #fcfcfc;
+  color: #e08f24;
+  }
+
+.heading{
+  text-align: center;
+  font-size: 60px;
+  font-weight: bold;
+}
+
+.titles{
+  background-color: #d3f1f2;
+}
+
+.about{
+  text-align: center;
+  font-size: 40px;
+}
+
+.select{
+  color: white;
+  background-color: #1c33b8;
+  font-size: 40px;
+}
+
+.buttonbox{
+  display: flex;
+  justify-content: center;
+}
+
+.message{
+  font-size: 40px;
+  display: flex;
+  justify-content: center;
+  color:
+}
+.description{
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+}
+.address{
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+}
